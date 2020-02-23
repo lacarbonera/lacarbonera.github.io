@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//carbonera.cat/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://carbonera.cat/</loc>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/socises-petits/alta-de-socia-de-la-carbonera-petita/</loc>
+		<lastmod>2018-01-05T20:16:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/socies/alta/</loc>
+		<lastmod>2018-01-27T17:29:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/el-blog/</loc>
+		<lastmod>2018-01-27T19:58:24+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/miniatures-web-blog.jpg</image:loc>
+			<image:title><![CDATA[miniatures web blog]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/lagenda/</loc>
+		<lastmod>2018-01-27T20:23:10+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/miniatures-web-agenda.jpg</image:loc>
+			<image:title><![CDATA[miniatures web agenda]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/la-llibreria/</loc>
+		<lastmod>2018-07-11T19:27:02+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/espai-.jpg</image:loc>
+			<image:title><![CDATA[espai]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/espai-.jpg</image:loc>
+			<image:caption><![CDATA[Fons de llibres, sala d'activitats i espai infantil a La carbonera llibreria]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/socises-petits/</loc>
+		<lastmod>2018-08-30T19:12:31+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/Carb_carnet_inf_rev-1.jpg</image:loc>
+			<image:title><![CDATA[Carb_carnet_inf_rev (1)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/11/JJ_2017_022_003_0160.jpg</image:loc>
+			<image:caption><![CDATA[Espai infantil de lectura per a nens i nenes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/la-llibreria/on-som/</loc>
+		<lastmod>2019-03-12T12:15:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/socies/</loc>
+		<lastmod>2019-05-28T17:55:01+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/carnet-soci.pdf</image:loc>
+			<image:title><![CDATA[carnet soci]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2017/10/JJ_2017_022_002_0025.jpg</image:loc>
+			<image:caption><![CDATA[tot d'avantatges amb el carnet de soci de La Carbonera]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/avis-legal/</loc>
+		<lastmod>2019-06-20T17:52:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/la-llibreria/contacte/</loc>
+		<lastmod>2019-09-04T16:51:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/formulari-dinscripcio/</loc>
+		<lastmod>2019-09-04T16:53:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/el-club-de-lectura/</loc>
+		<lastmod>2019-09-26T17:28:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/el-club-de-lectura-2/</loc>
+		<lastmod>2019-09-26T18:09:34+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/07/la_carbonera-75.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/logo/</loc>
+		<lastmod>2019-11-28T17:51:39+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/11/LA_CARBONERA_LOGO_OK.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/botiga-online/</loc>
+		<lastmod>2019-12-20T19:14:45+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2018/11/carbonera-online.jpg</image:loc>
+			<image:title><![CDATA[carbonera online]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2018/11/boto_cat_2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/club-de-lectura/</loc>
+		<lastmod>2019-12-27T18:01:07+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/12/club-de-lectura-hivern-2020-e1581510204906.jpg</image:loc>
+			<image:title><![CDATA[club-de-lectura-hivern-2020]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/12/club-de-lectura-hivern-2020-e1581510204906.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/feminisme-per-fascicles/</loc>
+		<lastmod>2019-12-27T19:23:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/the-english-bookclub/</loc>
+		<lastmod>2020-01-08T19:26:32+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/09/book-club-tardor-2019.jpg</image:loc>
+			<image:title><![CDATA[book club tardor 2019]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2020/01/book-club-2019.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/club-de-lectura-infantil/</loc>
+		<lastmod>2020-01-09T18:40:48+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2019/12/club-de-lectura-infantil-hivern-2020.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://carbonera.cat/club-de-lectura-feminista-silvia-federici/</loc>
+		<lastmod>2020-02-12T14:02:59+00:00</lastmod>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2020/02/Taller-de-lectura-feminista-amb-dates.jpg</image:loc>
+			<image:title><![CDATA[Taller de lectura feminista (amb dates)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://carbonera.cat//app/uploads/2020/02/Taller-de-lectura-feminista-amb-dates.jpg</image:loc>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
